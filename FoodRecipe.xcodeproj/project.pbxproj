@@ -18,6 +18,7 @@
 		EB8C3F8E2BC98A7F003BFB3E /* URLImage in Frameworks */ = {isa = PBXBuildFile; productRef = EB8C3F8D2BC98A7F003BFB3E /* URLImage */; };
 		EB8C3F902BC98A7F003BFB3E /* URLImageStore in Frameworks */ = {isa = PBXBuildFile; productRef = EB8C3F8F2BC98A7F003BFB3E /* URLImageStore */; };
 		EB8C3F922BC9A878003BFB3E /* ProfilePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8C3F912BC9A878003BFB3E /* ProfilePage.swift */; };
+		EB8C3FBD2BCA478D003BFB3E /* MenuItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8C3FBC2BCA478D003BFB3E /* MenuItems.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		EB8C3F882BC96836003BFB3E /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		EB8C3F8A2BC96CC6003BFB3E /* RecipeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeViewModel.swift; sourceTree = "<group>"; };
 		EB8C3F912BC9A878003BFB3E /* ProfilePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePage.swift; sourceTree = "<group>"; };
+		EB8C3FBC2BCA478D003BFB3E /* MenuItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				EB8C3F832BC963E3003BFB3E /* NetworkManager.swift */,
 				EB8C3F8A2BC96CC6003BFB3E /* RecipeViewModel.swift */,
+				EB8C3FBC2BCA478D003BFB3E /* MenuItems.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB8C3F892BC96836003BFB3E /* DataModel.swift in Sources */,
+				EB8C3FBD2BCA478D003BFB3E /* MenuItems.swift in Sources */,
 				EB8C3F842BC963E4003BFB3E /* NetworkManager.swift in Sources */,
 				EB8C3F752BC96386003BFB3E /* HomePageView.swift in Sources */,
 				EB8C3F922BC9A878003BFB3E /* ProfilePage.swift in Sources */,
