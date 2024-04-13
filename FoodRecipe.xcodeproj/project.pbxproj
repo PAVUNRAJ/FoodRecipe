@@ -160,6 +160,7 @@
 			mainGroup = EB8C3F662BC96386003BFB3E;
 			packageReferences = (
 				EB8C3F8C2BC98A7F003BFB3E /* XCRemoteSwiftPackageReference "url-image" */,
+				EB8C3FBB2BCA44D8003BFB3E /* XCRemoteSwiftPackageReference "APIHandler" */,
 			);
 			productRefGroup = EB8C3F702BC96386003BFB3E /* Products */;
 			projectDirPath = "";
@@ -407,6 +408,14 @@
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 3.1.1;
+			};
+		};
+		EB8C3FBB2BCA44D8003BFB3E /* XCRemoteSwiftPackageReference "APIHandler" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/PAVUNRAJ/APIHandler.git";
+			requirement = {
+				branch = main;
+				kind = branch;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

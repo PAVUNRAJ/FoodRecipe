@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "apihandler",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PAVUNRAJ/APIHandler.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "41936a02a86abd15c4f92103f9fe3defbf893d63"
+      }
+    },
+    {
       "identity" : "url-image",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/dmytro-anokhin/url-image",
